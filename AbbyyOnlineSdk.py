@@ -39,8 +39,8 @@ class AbbyyOnlineSdk:
 	# register at http://cloud.ocrsdk.com/Account/Register
 	# More info on getting your application id and password at
 	# http://ocrsdk.com/documentation/faq/#faq3
-	ApplicationId = "PythonAbbyyOCR"
-	Password = "UIhq8LUrgILm66QRVj+OhiCw"
+	ApplicationId = "Enter your OCR Application ID"
+	Password = "Enter your password"
 	Proxies = {}
 
 	def process_image(self, file_path, settings):
